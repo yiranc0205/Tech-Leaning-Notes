@@ -1,0 +1,1 @@
+This repo contains my teachnical learning notes, in relation to HTML&XML, CS101, SDLC and Git. 
