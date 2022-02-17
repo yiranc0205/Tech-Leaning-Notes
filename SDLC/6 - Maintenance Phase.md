@@ -1,0 +1,8 @@
+- Goal
+	- Fix software bugs during usage
+- Who
+	- Developers, users
+- Process
+	- Update and test the software to fix bugs
+- Deliverables
+	- Software application with bugfix for users

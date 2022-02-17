@@ -1,0 +1,9 @@
+- Goal
+	- Functional Requirements - describe **WHAT** the product should do
+	- NON Functional Requirements - describe **HOW** the product needs to behave
+- Who
+	- Business analyst, functional users, architect (架构师), lead developer, project manager
+- Process
+	- Brainstorming, interviews, role playing...
+- Deliverables (可交付物)
+	- UseCases, screen prototypes...

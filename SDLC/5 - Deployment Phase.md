@@ -1,0 +1,10 @@
+- Goal
+	- Moving the software into production so that the users can access it
+- Who
+	- Lead Developer, Software Configuration Manager/SCM team member, Infrastructure team, Project Manager, Scrum Master, User
+- Process
+	- Project manager coordinates the deployment plan with the stakeholders(Users, lead developer, SCM and infrastructure team)
+	- Set the deployment date
+	- Move the software to production
+- Deliverables
+	- Software application for users
